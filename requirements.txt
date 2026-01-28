@@ -6,4 +6,3 @@ openpyxl
 gunicorn
 opencv-python-headless
 xlsxwriter
-streamlit
