@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: bbs-pdf-converter
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn run:app --workers 1 --threads 1 --timeout 120
