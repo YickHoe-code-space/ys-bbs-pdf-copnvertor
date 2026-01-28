@@ -5,4 +5,4 @@ pdfplumber
 openpyxl
 gunicorn
 opencv-python-headless
-
+xlsxwriter
