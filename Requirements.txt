@@ -1,0 +1,7 @@
+flask
+camelot-py[cv]
+pandas
+pdfplumber
+openpyxl
+opencv-python-headless
+gunicorn
