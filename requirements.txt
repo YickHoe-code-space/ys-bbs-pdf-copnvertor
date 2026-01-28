@@ -7,3 +7,4 @@ gunicorn
 opencv-python-headless
 xlsxwriter
 altair<5
+imghdr
