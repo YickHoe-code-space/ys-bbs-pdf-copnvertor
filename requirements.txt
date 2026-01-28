@@ -1,10 +1,7 @@
-flask
+streamlit>=1.41.1
 camelot-py[cv]
 pandas
 pdfplumber
-openpyxl
-gunicorn
-opencv-python-headless
 xlsxwriter
-altair<5
-imghdr
+opencv-python-headless
+openpyxl
