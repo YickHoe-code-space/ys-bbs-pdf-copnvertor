@@ -3,5 +3,6 @@ camelot-py[cv]
 pandas
 pdfplumber
 openpyxl
-opencv-python-headless
 gunicorn
+opencv-python-headless
+
